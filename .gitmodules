@@ -1,0 +1,6 @@
+[submodule "cuda-samples"]
+	path = cuda-samples
+	url = git@github.com:NVIDIA/cuda-samples.git
+[submodule "CUDA-Programs"]
+	path = CUDA-Programs
+	url = git@github.com:RichardAns/CUDA-Programs.git
